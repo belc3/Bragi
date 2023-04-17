@@ -34,9 +34,13 @@ Por favor _complete la lectura_ de todo este instructivo.
    - !s
       > Detiene la reproduccion total de la cancion en curso. [!s]
       
-16:15
+3. DESCARGAS
+   - CODEX FFMPEG FULL)
+      > https://www.gyan.dev/ffmpeg/builds/
 
-
+4. RECORDATORIO
+   - Recuerda modificar las variables de entorno de tu SO, y colocar la liga de la carpeta BIN de nuestro FFMPEG en el proyecto.
+  
 ### BRAGI es el dios mas musical de todo el panteon nordico, siendo el poeta y bardo personal de Odin, no hay nadie mejor para representar este bot...
 
 
